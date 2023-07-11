@@ -147,12 +147,6 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    /* padding-left: 240px;
-    padding-right: 240px; */
- 
-    
-   
-
 }
 .social-image1{
 
@@ -182,7 +176,7 @@ header{
 
 }
 .newseteller{
-    background-image: url("./asset/Rectangle 9.png");
+    background-image: url("./asset/rectangle9.png");
    
     background-repeat: no-repeat;
     
