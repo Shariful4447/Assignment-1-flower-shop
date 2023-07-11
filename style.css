@@ -108,6 +108,44 @@ header{
 .label{
     text-decoration: underline;
 }
+
+.exiting-feature{
+    display: flex;
+    max-width: 1440px;
+    margin: 105px;
+    
+    
+    
+    background:rgba(39, 39, 39, 0.05);
+    justify-content: center;
+
+}
+.exiting-feature>p{
+    text-align: center;
+   
+}
+.exiting-feature1{
+    margin: 20px;
+    height: 88px;
+    width: 90px;
+    padding-right: 150px;
+    padding-top: 30px;
+}
+.exiting-feature2{
+    padding-top: 30px;
+    margin: 20px;
+    height: 88px;
+    width: 90px;
+    padding-right: 150px;
+}
+.exiting-feature3{
+    padding-top: 30px;
+    margin: 20px;
+    height: 88px;
+    width: 90px;
+    padding-right: 100px;
+}
+
 .hot-deals{
     display: flex;
     background-color: rgba(229, 84, 115, 0.10);
