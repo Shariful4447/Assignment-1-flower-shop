@@ -105,3 +105,32 @@ header{
 .label{
     text-decoration: underline;
 }
+.hot-deals{
+    display: flex;
+    background-color: rgba(229, 84, 115, 0.10);
+    width: 100%;
+    height: 520px;
+    padding: 10px;
+}
+.hot-deals-text{
+    text-align: center;
+    padding: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.hot-deals-text>h5{
+    font-size: 40px;
+    margin-top: 80px;
+    margin-bottom: 0px;
+    
+}
+.span1{
+    color: #E55473;
+}
+.hot-deals-image{
+    height: 318px;
+    width: 420px;
+    padding: 50px;
+    margin-left: 20px;
+    margin-right: 110px;
+}
